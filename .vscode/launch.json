@@ -1,0 +1,85 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Practical10",
+            "request": "launch",
+            "mainClass": "javapracticals.Practical10",
+            "projectName": "c++_3f8158e5"
+        },
+        {
+            "type": "java",
+            "name": "Practical9",
+            "request": "launch",
+            "mainClass": "javapracticals.Practical9",
+            "projectName": "c++_3f8158e5"
+        },
+        {
+            "type": "java",
+            "name": "Practical7",
+            "request": "launch",
+            "mainClass": "javapracticals.Practical7",
+            "projectName": "c++_3f8158e5"
+        },
+        {
+            "type": "java",
+            "name": "Practical8",
+            "request": "launch",
+            "mainClass": "javapracticals.Practical8",
+            "projectName": "c++_3f8158e5"
+        },
+        {
+            "type": "java",
+            "name": "Practical6",
+            "request": "launch",
+            "mainClass": "javapracticals.Practical6",
+            "projectName": "c++_3f8158e5"
+        },
+        {
+            "type": "java",
+            "name": "Practical5",
+            "request": "launch",
+            "mainClass": "javapracticals.Practical5",
+            "projectName": "c++_3f8158e5"
+        },
+        {
+            "type": "java",
+            "name": "Practical4",
+            "request": "launch",
+            "mainClass": "javapracticals.Practical4",
+            "projectName": "c++_3f8158e5"
+        },
+        {
+            "type": "java",
+            "name": "Practical3",
+            "request": "launch",
+            "mainClass": "javapracticals.Practical3",
+            "projectName": "c++_3f8158e5"
+        },
+        {
+            "type": "java",
+            "name": "Practical2",
+            "request": "launch",
+            "mainClass": "javapracticals.Practical2",
+            "projectName": "c++_3f8158e5"
+        },
+        {
+            "type": "java",
+            "name": "practical1_classes_objects",
+            "request": "launch",
+            "mainClass": "javapracticals.practical1_classes_objects",
+            "projectName": "c++_3f8158e5"
+        },
+        {
+            "type": "java",
+            "name": "Practical1",
+            "request": "launch",
+            "mainClass": "javapracticals.Practical1",
+            "projectName": "c++_3f8158e5"
+        }
+    ]
+}
